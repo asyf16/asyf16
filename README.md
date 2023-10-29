@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @asyf16
+- 👀 I’m interested in graphic design and coding!
+- 🌱 I’m currently learning React and Javascript
+- 💞️ I’m looking to collaborate on projects!
+- 📫 How to reach me: aurorashi16@gmail.com
