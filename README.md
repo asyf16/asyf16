@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning React and Javascript
 - 💞️ I’m looking to collaborate on projects!
 - 📫 How to reach me: aurorashi16@gmail.com
+- https://aurorashi.live/
